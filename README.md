@@ -6,7 +6,7 @@ Installation script for Ubuntu/Debian Fedora/CentOS
 
 or  direct download and installation
 
-    bash <(curl -sL https://raw.githubusercontent.com/krlex/speedtest-installation/main/install.sh)
+    bash <(curl -sL https://raw.githubusercontent.com/InstallEasy/speedtest/main/install.sh)
       
 # About SpeedTest
 
